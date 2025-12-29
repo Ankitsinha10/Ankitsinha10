@@ -69,13 +69,14 @@ I think like a builder, test like a detective, and automate anything that slows 
 
 <div align="center">
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitsinha10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ankitsinha10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Ankitsinha10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankitsinha10&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ankitsinha10&theme=tokyonight&hide_border=true)](https://github.com/Ankitsinha10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitsinha10&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ankitsinha10&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Ankitsinha10)
 
 </div>
+
 
 ---
 
@@ -89,12 +90,11 @@ Certified in REST API testing, request chaining, and automation workflows
 
 **📜 [Stanford Code in Place - Python Programming](https://codeinplace.stanford.edu/cip5/certificate/i4bvkl)**  
 ![Stanford](https://img.shields.io/badge/-Stanford-8C1515?style=flat-square&logo=stanford&logoColor=white) *Issued Jun 2025*  
-Completed intensive Python programming course from Stanford University
+Completed Python programming course from Stanford University
 
 **📜 [Qualified Quality Assurance Tester](https://credsverse.com/credentials/b6a6077c-eb7a-443a-9b25-75f9e96c5064)**  
 ![QA](https://img.shields.io/badge/-Tryber%20Credsverse-4A90E2?style=flat-square) *Issued Jan 2024*  
-Professional QA certification for crowdtesting platforms
-
+ Recognised for consistent high performance across numerous professional test cycles.
 </div>
 
 
