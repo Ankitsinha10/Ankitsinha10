@@ -1,16 +1,76 @@
-## Hi there 👋
+<h2 align="center">👋 Hi, I'm <strong>Ankit Kumar Sinha</strong></h2>
+<h4 align="center">QA & Automation Engineer | Playwright · Selenium · API · CI/CD</h4>
 
-<!--
-**Ankitsinha10/Ankitsinha10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.ankitkumarsinha.com">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/ankitsinha07"> LinkedIn</a> •
+  <a href="https://github.com/Ankitsinha10"> GitHub</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a **QA & Automation Engineer** with **3+ years of hands-on experience** in testing
+Web, Mobile, and SaaS applications. I specialise in **Playwright, Selenium, API Testing, and CI/CD pipelines**, building automation
+frameworks that help teams ship **faster, cleaner, and more stable releases**.
+
+I think like a builder, test like a detective, and automate anything that slows teams down.  
+
+---
+
+## 🔧 Tech Stack & Tools
+
+### 🧪 **Automation & Testing**
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2fdf75?style=for-the-badge&logo=playwright&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### 💻 **Languages**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🔧 **Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **[SauceDemo E2E Automation Suite](https://github.com/Ankitsinha10/saucedemo-playwright)**
+- Playwright + TypeScript + POM  
+- GitHub Actions CI/CD  
+- Cross-browser automation  
+- 100% stable regression runs  
+
+### 🔹 **[Student Onboarding Automation Framework](https://github.com/Ankitsinha10/Student-Onboarding-Automation-Framework)**
+- Automated SaaS onboarding workflows  
+- Session persistence for CAPTCHA bypass  
+- Angular form validations + assertions  
+
+### 🔹 **[PyQuest – Python Quiz Engine](https://github.com/Ankitsinha10/Pyquest)**
+- Stanford project  
+- Modular CLI quiz system  
+- JSON-driven question engine  
+
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.ankitkumarsinha.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/ankitsinha07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ankitkumarsinha05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
