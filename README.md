@@ -65,17 +65,13 @@ I think like a builder, test like a detective, and automate anything that slows 
 
 ---
 
-## 📊 GitHub Stats
+## ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ankitsinha10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ankitsinha10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Ankitsinha10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ankitsinha10&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ankitsinha10&theme=tokyonight&hide_border=true)](https://github.com/Ankitsinha10)
-
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ankitsinha10&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Ankitsinha10)
-
-</div>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ankitsinha10&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ---
