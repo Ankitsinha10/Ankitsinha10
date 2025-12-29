@@ -65,14 +65,18 @@ I think like a builder, test like a detective, and automate anything that slows 
 
 ---
 
-## ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ankitsinha10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+> 📈 Building in public - tracking my automation engineering journey
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ankitsinha10&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitsinha10&theme=tokyonight" alt="GitHub Stats"/>
+</p>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ankitsinha10&layout=compact&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankitsinha10&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankitsinha10&theme=tokyonight" alt="Commit Languages"/>
+</p>
 
 ---
 
