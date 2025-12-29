@@ -65,6 +65,26 @@ I think like a builder, test like a detective, and automate anything that slows 
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ankitsinha10&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitsinha10&theme=tokyonight&hide_border=true" height="170px"/>
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+- ![Postman](https://img.shields.io/badge/-Postman-F64F3C?style=for-the-badge&logo=postman&logoColor=white) [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/XCZ32kq2T96mgmWdjVUFRA?identity__email=ankitkrsinha07@gmail.com) — Oct 2025  
+- ![Stanford](https://img.shields.io/badge/-Stanford-8C1515?style=for-the-badge&logo=stanford&logoColor=white) [Code in Place - Python](https://codeinplace.stanford.edu/cip5/certificate/i4bvkl) — Jun 2025  
+- ![QA](https://img.shields.io/badge/-QA%20Tester-007ACC?style=for-the-badge) [Qualified QA Tester - Tryber/Credsverse](https://credsverse.com/credentials/b6a6077c-eb7a-443a-9b25-75f9e96c5064) — Jan 2024  
+
+---
+
+
 ## 🤝 Connect With Me
 <p align="center">
   <a href="https://www.ankitkumarsinha.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/></a>
