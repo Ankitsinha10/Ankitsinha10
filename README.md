@@ -69,8 +69,11 @@ I think like a builder, test like a detective, and automate anything that slows 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankitsinha10&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitsinha10&theme=tokyonight&hide_border=true" height="170px"/>
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitsinha10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankitsinha10&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitsinha10&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -78,9 +81,22 @@ I think like a builder, test like a detective, and automate anything that slows 
 
 ## 🎓 Certifications
 
-- ![Postman](https://img.shields.io/badge/-Postman-F64F3C?style=for-the-badge&logo=postman&logoColor=white) [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/XCZ32kq2T96mgmWdjVUFRA?identity__email=ankitkrsinha07@gmail.com) — Oct 2025  
-- ![Stanford](https://img.shields.io/badge/-Stanford-8C1515?style=for-the-badge&logo=stanford&logoColor=white) [Code in Place - Python](https://codeinplace.stanford.edu/cip5/certificate/i4bvkl) — Jun 2025  
-- ![QA](https://img.shields.io/badge/-QA%20Tester-007ACC?style=for-the-badge) [Qualified QA Tester - Tryber/Credsverse](https://credsverse.com/credentials/b6a6077c-eb7a-443a-9b25-75f9e96c5064) — Jan 2024  
+<div align="left">
+
+**📜 [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/XCZ32kq2T96mgmWdjVUFRA?identity__email=ankitkrsinha07@gmail.com)**  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) *Issued Oct 2025*  
+Certified in REST API testing, request chaining, and automation workflows
+
+**📜 [Stanford Code in Place - Python Programming](https://codeinplace.stanford.edu/cip5/certificate/i4bvkl)**  
+![Stanford](https://img.shields.io/badge/-Stanford-8C1515?style=flat-square&logo=stanford&logoColor=white) *Issued Jun 2025*  
+Completed intensive Python programming course from Stanford University
+
+**📜 [Qualified Quality Assurance Tester](https://credsverse.com/credentials/b6a6077c-eb7a-443a-9b25-75f9e96c5064)**  
+![QA](https://img.shields.io/badge/-Tryber%20Credsverse-4A90E2?style=flat-square) *Issued Jan 2024*  
+Professional QA certification for crowdtesting platforms
+
+</div>
+
 
 ---
 
