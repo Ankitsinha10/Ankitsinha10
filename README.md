@@ -50,12 +50,17 @@ I think like a builder, test like a detective, and automate anything that slows 
 - Playwright + TypeScript + POM  
 - GitHub Actions CI/CD  
 - Cross-browser automation  
-- 100% stable regression runs  
+- 100% stable regression runs
+
+### 🔹 **[Scalable Test Automation Framework](https://github.com/Ankitsinha10/Playwright-TypeScript-Automation-Framework)**
+- Playwright + TypeScript with POM architecture  
+- Unified UI & API testing framework  
+- Parallel execution · Cross-browser validation · Dual reporting (Playwright + Allure) 
 
 ### 🔹 **[Student Onboarding Automation Framework](https://github.com/Ankitsinha10/Student-Onboarding-Automation-Framework)**
 - Automated SaaS onboarding workflows  
 - Session persistence for CAPTCHA bypass  
-- Angular form validations + assertions  
+- Angular form validations + assertions 
 
 ### 🔹 **[PyQuest – Python Quiz Engine](https://github.com/Ankitsinha10/Pyquest)**
 - Stanford project  
