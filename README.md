@@ -46,7 +46,7 @@ I think like a builder, test like a detective, and automate anything that slows 
 
 ## 📌 Featured Projects
 
-### 🔹 **[SauceDemo E2E Automation Suite](https://github.com/Ankitsinha10/saucedemo-playwright)**
+### 🔹 **[SauceDemo E2E Automation Suite](https://github.com/Ankitsinha10/saucedemo-playwright-automation)**
 - Playwright + TypeScript + POM  
 - GitHub Actions CI/CD  
 - Cross-browser automation  
