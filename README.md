@@ -65,7 +65,12 @@ I think like a builder, test like a detective, and automate anything that slows 
 ### 🔹 **[PyQuest – Python Quiz Engine](https://github.com/Ankitsinha10/Pyquest)**
 - Stanford project  
 - Modular CLI quiz system  
-- JSON-driven question engine  
+- JSON-driven question engine
+
+### 🔹 **[QA & SDET Documentation Portfolio](https://github.com/Ankitsinha10/QA-Documentation-and-Defect-Reporting)**
+- iOS onboarding test suite — 62 TCs, 9 bugs, 2 critical
+- SDET buildability report — CI/CD audit, live production smoke test
+- Exploratory testing across e-commerce and web platforms
 
 
 ---
